@@ -5,11 +5,10 @@ a Top-Secret Security clearence and am interested in working with aerospace and 
 
 I have experience with Java, Python, C, C++, SQL,  and R.
 
-I have experience with PostgreSQL, Node.js, and REACT.js.
+I have experience with PostgreSQL and REACT.js.
 
-A project that I am currently working on is building a personal website for myself.
+A project that I am currently working on is building a personal portfolio website for myself using REACT.
 
-I am interested in data base development/sustainment, web developement, data science,
-cybersecurity, and information security.
+I am interested in data basedevelopment/sustainment, web developement, data science,cybersecurity, and information security.
 
 I am currently taking Distributed Software Development, Software Analysis and Design, Software QA and Testing, Exploring Data in R and Python, and CS Capstone I.
