@@ -7,4 +7,4 @@ I have experience with PostgreSQL, SOAP and RESTful service calls, WEB APIs,.
 
 A project that I am currently working on is building a personal portfolio website for myself using REACT.
 
-I am interested in data base development/sustainment, web developement, data science, cybersecurity, and information security.
+I am interested in database development, web developement, data science, and software engineering.
