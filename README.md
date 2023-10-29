@@ -1,6 +1,4 @@
-Hi, my name is Ellis Osborn. I have a BS in Computer Science with a concentration in Software Engineering. I am in the Army Reserves as a Signals Collection Analyst (35S) with 
-a Top-Secret Security clearence and a Full Scope Polygraph. I'm interested in working with aerospace and defense companies.
-I love working on new projects
+Hi, my name is Ellis Osborn. I have a BS in Computer Science with a concentration in Software Engineering. I have a Top-Secret Security clearence and a Full Scope Polygraph from being in the Army Reserves as a Signals Collection Analyst. I'm interested in working with aerospace and defense companies.
 
 I have experience with languages: C#, C++, Java, SQL, JavaScript, HTML, Python, C, and R.
 
