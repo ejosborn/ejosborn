@@ -1,7 +1,7 @@
-Hi, my name is Ellis Osborn. I have a BS in Computer Science with a concentration in Software Engineering. I have a Top-Secret Security clearence and a Full Scope Polygraph from being in the Army Reserves as a Signals Collection Analyst. I'm interested in working with aerospace and defense companies.
+Hi, my name is Ellis Osborn. I have a BS in Computer Science with a concentration in Software Engineering. I have a Top-Secret Security clearence and a CI Polygraph.
 
-I have experience with languages: C#, C++, Java, SQL, JavaScript, HTML, Python, C, and R.
+I'm most passionate about Web Development (specifically backend) and Databases, but I love learning new things!
 
-I have experience with PostgreSQL, SOAP and RESTful service calls, WEB APIs.
+I have used languages: Python, Javascript, Java, SQL, as well as some HTML and CSS.
 
-I am interested in everything backend, working with databases, quality assurance, web developement, and software engineering.
+I have experience in frameworks: Node.js, React.js, Django, Express, and Flask.
