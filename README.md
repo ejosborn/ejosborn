@@ -4,6 +4,6 @@ I'm most passionate about Web Development (specifically backend) and Databases, 
 
 I have used languages: Python, Javascript, Java, SQL, as well as some HTML and CSS.
 
-I have experience in frameworks: NodeJS, ReactJS, AngularJS, Django, Express, and Flask.
+I have experience in frameworks: NodeJS, ReactJS, Vue.js, and Flask.
 
-(11/16) I'm currently working on a Token-Based Authority System project. It will be using Flask and Python for the backend, AngularJS and Javascript, and SQLite3 to handle user data.
+(11/16) I'm currently working on a Token-Based Authority System project. The backend will be built using Flask as the frameowork, Python, and SQLite3 to handle user data. The frontend is built using Vue.js as the framework, Javascript, and HTML.
