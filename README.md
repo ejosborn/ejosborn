@@ -6,4 +6,4 @@ I have used languages: Python, Javascript, Java, SQL, as well as some HTML and C
 
 I have experience in frameworks: NodeJS, ReactJS, Vue.js, and Flask.
 
-I'm currently learning Golang and plan on creating a few projects to become more confident!
+I'm currently learning Golang and plan on creating a few projects to become more proficient and confident!
