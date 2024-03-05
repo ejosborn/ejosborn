@@ -2,8 +2,8 @@ Hi, my name is Ellis Osborn. I have a BS in Computer Science with a concentratio
 
 I'm most passionate about Web Development (backend and fullstack) and Databases, but I love learning new things!
 
-I have used languages: Python, Javascript, Java, SQL, as well as some HTML and CSS.
+I have used languages: Python, Javascript, Java, SQL, as well as HTML and CSS.
 
-I have experience in frameworks: NodeJS, ReactJS, Vue.js, and Flask.
+I have experience in frameworks: NodeJS, ReactJS, Next.js, Vue.js, and Flask.
 
-I'm currently learning Golang and plan on creating a few projects to become more proficient and confident!
+I'm currently working on a fullstack project to help me learn Next.js, Tailwindcss, and PostgreSQL to add to my arsenal!
